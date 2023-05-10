@@ -28,7 +28,7 @@ if (number >= 2) {
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and set it equal to 'Dane' as a string.
 // We check if name is equal to 'Mary' in value and type. 
-// name is not equal to Mary, so we move to the next conditional,
+// name is not equal to Mary, so
 // we console.log "How do you do?"
 
 //CODE
@@ -50,7 +50,7 @@ if (name === 'Mary') {
 // we check if code is equal to 123 in value and type. code is equal to 123, so
 // -- the variable secret is assigned tne string "super" and the variable code is assigned itself multiplied by 2. 
 // -- code is now 246.
-// we then check if code is greater than 250. If true, secret would be assigned the string "duper". 
+// we check if code is greater than 250.  
 // -- code not greater than 250, so secret is not reassigned.
 // we console.log "super".
 
@@ -146,9 +146,9 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
-if (mix === true) {
 //FIX - instructions say to set both colorOne and colorTwo to purple.
 // Should also include: colorTwo = 'purple'; 
+if (mix === true) {
 colorOne = 'purple';
 }
 */
